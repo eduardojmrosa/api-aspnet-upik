@@ -1,0 +1,1 @@
+Para executar este projeto basta clonar, instalar os pacotes NUGET, buildar e compilar. É necessário nos arquivos de variáveis de ambiente vincular o certificado com as credenciais do google. Crie uma variável de ambiente com nome  GOOGLE_APPLICATION_CREDENTIALS   e coloque o caminho do arquivo json com as credenciais da conta de serviço do google cloud
